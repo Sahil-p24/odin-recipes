@@ -3,7 +3,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1 {
+.recipes-heading {
     text-align: center;
     color: rgb(40, 25, 75);
     font-size: 100px;
