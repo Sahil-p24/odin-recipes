@@ -1,4 +1,4 @@
-body {
+.index-body {
     background-color: rgb(100, 214, 180);
     font-family: 'Courier New', Courier, monospace;
 }
@@ -27,3 +27,4 @@ ul {
     background-color: rgb(44, 167, 19);
     color: rgb(44, 167, 19);
 }
+
