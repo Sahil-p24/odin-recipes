@@ -33,7 +33,7 @@
     font-family: 'Comic Sans', 'Courier New', monospace;
 }
 
-.scrambled-body h1 {
+.scrambled-body,.toast-body h1 {
     text-align: center;
 }
 
