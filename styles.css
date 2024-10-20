@@ -36,3 +36,8 @@
 .scrambled-body h1 {
     text-align: center;
 }
+
+img {
+    width: auto;
+    height: auto;
+}
