@@ -50,3 +50,8 @@ img {
     font-weight: bold;
     font-size: 18px;
 }
+
+.omelette-body img {
+    width: 40vw;
+    height: auto;
+}
