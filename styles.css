@@ -35,6 +35,7 @@
 .scrambled-body {
     background-color: rgb(238, 238, 69);
     font-family: 'Comic Sans', 'Courier New', monospace;
+    border: 10px groove rebeccapurple;
 }
 
 img {
