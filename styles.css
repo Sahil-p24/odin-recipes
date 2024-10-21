@@ -80,4 +80,5 @@ img {
 .omelette-body img {
     width: 40vw;
     height: auto;
+    border: 5px groove red;
 }
