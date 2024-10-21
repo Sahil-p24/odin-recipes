@@ -42,6 +42,10 @@
     border-bottom: 2px solid rgb(146, 0, 0);
 }
 
+.scrambled-content {
+    margin: 0 10px;
+}
+
 img {
     width: auto;
     height: auto;
