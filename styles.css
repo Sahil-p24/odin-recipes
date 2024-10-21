@@ -59,6 +59,8 @@ img {
 }
 
 .toast-body h1, .toast-body h2, .toast-body h3, {
+    border-bottom: 5px ridge rgb(246, 250, 20);
+    margin-right: 1100px;
 }
 
 .omelette-body {
