@@ -82,3 +82,6 @@ img {
     height: auto;
     border: 5px groove red;
 }
+
+.omelette-body h1, .omelette-body h2, .omelette-body h3 {
+}
