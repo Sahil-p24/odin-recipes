@@ -74,6 +74,7 @@ img {
     font-weight: bold;
     font-size: 18px;
     border: 6px dashed purple;
+    padding: 10px;
 }
 
 .omelette-body img {
