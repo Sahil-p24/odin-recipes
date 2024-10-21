@@ -14,21 +14,22 @@
 
 .recipe-list {
     font-size: 40px;
+    display: inline-block;
 }
 
 .scrambled {
-    background-color: gold;
-    color: yellow;
+    background-color: rgb(255, 200, 50);
+    color: rgb(255, 200, 50);
 }
 
 .toast {
-    background-color: rgb(209, 161, 161);
-    color: rgb(209, 161, 161);
+    background-color: #5cffe4;
+    color: #5cffe4;
 }
 
 .omelette {
-    background-color: rgb(44, 167, 19);
-    color: rgb(44, 167, 19);
+    background-color: #9cff93;
+    color: #9cff93;
 }
 
 .scrambled-body {
